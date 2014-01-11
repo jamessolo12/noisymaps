@@ -1,0 +1,1 @@
+<cfset variables.qCategorys	=	application.oNearestBusiness.getAllCategories() />

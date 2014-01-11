@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /parsed/
+Disallow: /components/
+Disallow: /WEB-INF/
+Disallow: /system/

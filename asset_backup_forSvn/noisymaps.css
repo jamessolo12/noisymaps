@@ -1,0 +1,39 @@
+			.button {
+				border:solid 1px #E6E4DB;
+				background:#FFFCE9;
+				display:block;
+				color:#555555;
+				font-weight:bold;
+				height:30px;
+				line-height:31px;
+				margin-bottom:12px;
+				text-decoration:none;
+				width:191px;
+			}
+			
+			.add{
+				background:url(http://s3-eu-west-1.amazonaws.com/noisyimages/icons/plus.ico) no-repeat 10px 8px;
+				text-indent:40px;
+				display:block;
+			}
+			
+			.find{
+				background:url(http://s3-eu-west-1.amazonaws.com/noisyimages/icons/find.ico) no-repeat 10px 8px;
+				text-indent:40px;
+				display:block;
+			}
+			
+			#loadingImg{
+				position: relative;
+				left: 5px;
+				top: 5px;
+				display:none;
+			}
+			.hero-unit{
+				padding-top: 40px;
+				padding-bottom: 40px;
+			}
+			
+			.indent{
+				margin-left: 40px;
+			}

@@ -1,0 +1,78 @@
+			
+			#map_canvas {
+				width:550px;	/* left nav width */
+				float:left;
+				display:inline;	/* IE6 float+margin bug fix */
+				padding:10px;
+				height:550px;
+			}
+
+			.button {
+				border:solid 1px #E6E4DB;
+				background:#FFFCE9;
+				display:block;
+				color:#555555;
+				font-weight:bold;
+				height:30px;
+				line-height:31px;
+				margin-bottom:12px;
+				text-decoration:none;
+				width:191px;
+			}
+			
+			.add{
+				background:url(http://s3-eu-west-1.amazonaws.com/noisyimages/icons/plus.ico) no-repeat 10px 8px;
+				text-indent:40px;
+				display:block;
+			}
+			
+			.find{
+				background:url(http://s3-eu-west-1.amazonaws.com/noisyimages/icons/find.ico) no-repeat 10px 8px;
+				text-indent:40px;
+				display:block;
+			}
+			#centerpoint{
+				background:url(http://s3-eu-west-1.amazonaws.com/noisyimages/cross.png) no-repeat;
+			    position: relative;
+			    top: 275px;
+			    height: 19px;
+			    width: 19px;
+			    left: 275px;
+			    display: block;
+			    background-position: center center;
+			    z-index:1;
+			}
+			
+			#loadingImg{
+				position: relative;
+				left: 5px;
+				top: 5px;
+				display:none;
+			}
+			
+			.hero-unit{
+				padding-top: 40px;
+				padding-bottom: 40px;
+			}
+			
+			.indent{
+				margin-left: 40px;
+			}
+
+			.tblSmiles{
+				border-collapse: separate; 
+				border-spacing: 5px;
+			}
+			
+			.smileButton{
+				border: 1px solid;
+				width: 32px;
+				height: 32px;
+				box-shadow: 2px 2px 1px #888888;
+			}
+			
+			.smileButton_done{
+				border: 1px solid;
+				width: 32px;
+				height: 32px;
+			}
